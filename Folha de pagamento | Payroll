@@ -20,20 +20,20 @@ Inicio
    escreval ("Nome = ", nome)
    escreval
    
-   escreva("Declare o seu sal·rio:", salario1)
+   escreva("Declare o seu sal√°rio:", salario1)
    leia(salario1)
    escreval
    
    escreval("DADOS DIGITADOS:")
-   escreval ("Sal·rio = ", salario1)
+   escreval ("Sal√°rio = ", salario1)
    escreval
    
-   escreva("Pretens„o salarial: ", salario2)
+   escreva("Pretens√£o salarial: ", salario2)
    leia(salario2)
    escreval
 
    escreval("DADOS DIGITADOS:")
-   escreval ("Pretens„o salarial = ", salario2)
+   escreval ("Pretens√£o salarial = ", salario2)
    escreval
    
    escreva("Digite sua idade: ")
